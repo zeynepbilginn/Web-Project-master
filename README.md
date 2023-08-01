@@ -2,9 +2,9 @@
 
  <img src="/Web-Project-master/Pictures/0.png" width="1050" title="hover text">
  
-•	Giriş sayfası olarak sade bir ara yüz tercih ettik ilk olarak. İki adet buton bulunuyor “Giriş Yap” ve “Kayıt Ol” olarak. 
-•	 Daha önceden kayıt olmamış ise kullanıcımız Kayıt Ol butonuna tıklayarak kayıt olabiliyor.
-•	Daha önceden bir üyeliği var ise “Giriş Yap” butonuna tıklayarak giriş yapabiliyor.
+•	Giriş sayfası olarak sade bir ara yüz tercih ettik ilk olarak. İki adet buton bulunuyor “Giriş Yap” ve “Kayıt Ol” olarak.  
+•	 Daha önceden kayıt olmamış ise kullanıcımız Kayıt Ol butonuna tıklayarak kayıt olabiliyor.  
+•	Daha önceden bir üyeliği var ise “Giriş Yap” butonuna tıklayarak giriş yapabiliyor.  
 
 ## Kayıt Ol Sayfası
  
