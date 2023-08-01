@@ -27,7 +27,7 @@
 
 <img src="/Web-Project-master/Pictures/2.png" width="950" title="hover text">  
 
-<img src="/Web-Project-master/Pictures/13.png" width="1150" title="hover text">
+<img src="/Web-Project-master/Pictures/13.png" width="950" title="hover text">
 •	Ana sayfada 3. Sınıf  “Matematik” , “Fen Bilimleri” ve “İngilizce” derslerinin konu anlatımları bulunuyor. Kullanıcı istediği dersin konu anlatımlarına bu sayfadan erişebilir.   
 
 
