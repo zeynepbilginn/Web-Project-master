@@ -32,7 +32,6 @@
 
 
 # Konu Anlatım Sayfaları
-<img src="/Web-Project-master/Pictures/13.png" width="1050" title="hover text">
 
 •	Bu sayfalarda 3. Sınıf “Matematik” , “Fen Bilimleri” ve “İngilizce”  derslerin konu anlatımları bulunuyor. Ve kullanıcı derslerine buradan çalışabiliyor.
 
